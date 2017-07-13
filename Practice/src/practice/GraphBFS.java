@@ -1,16 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package practice;
-import java.util.*;
-/**
- *
- * @author Pallav
- */
-public class GraphBFS {
-        
+///*
+// * To change this license header, choose License Headers in Project Properties.
+// * To change this template file, choose Tools | Templates
+// * and open the template in the editor.
+// */
+//package practice;
+//import java.util.*;
+///**
+// *
+// * @author Pallav
+// */
+//public class GraphBFS {
+//        
 //    int v;
 //    LinkedList<Integer> adjList[];
 //    GraphBFS(int V){
@@ -68,7 +68,7 @@ public class GraphBFS {
 //        g.BFS(2);
 //    }
 //    
-    
-    
-    
-}
+//    
+//    
+//    
+//}
